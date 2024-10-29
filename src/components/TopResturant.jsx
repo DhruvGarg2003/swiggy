@@ -1,5 +1,5 @@
 import React, { useState,useEffect } from 'react'
-import Card from './card';
+import Card from './Card';
 import { useDispatch } from 'react-redux';
 import { setFilterValue } from '../Utils/filterSlice';
 

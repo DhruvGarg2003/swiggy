@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Card from './card';
+import Card from './Card';
 import { useDispatch } from 'react-redux';
 import { setFilterValue } from '../Utils/filterSlice';
 function Onlinefood({data,title}) {
