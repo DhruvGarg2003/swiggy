@@ -1,0 +1,2 @@
+export let veg="https://smallimg.pngkey.com/png/small/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png"
+export let nonVeg = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINFWPFlIwIGkKZksoI0Kjr1V9jOU4fl86hw&s"
